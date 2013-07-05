@@ -138,7 +138,7 @@
     
    // NSLog(@" Home Click Setting Button ");
     
-    
+    NSLog(@"Test For Clicking Setting Button ");
 }
 
 -(IBAction)ClickRecordButton:(id)sender{
